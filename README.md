@@ -31,3 +31,5 @@ PHP (con XAMPP)
 Base de datos:
 
 MySQL
+
+Desarrollado por: Perla Garcia Perez, Kimberly Perez Martinez, Alejandro Romero Murillo, Andrea Vega Villanueva, Vanesa Velazquez Rodriguez
