@@ -44,7 +44,8 @@ Landing page:
 
  ![WhatsApp Image 2025-09-24 at 10 27 48 PM](https://github.com/user-attachments/assets/17fec1a5-7770-4a10-87a6-d6d59d0a89c5)
 
- 
 
 
-Desarrollado por: Perla Garcia Perez, Kimberly Perez Martinez, Alejandro Romero Murillo, Andrea Vega Villanueva, Vanesa Velazquez Rodriguez
+👩‍💻 Autor:
+
+Perla Garcia Perez, Kimberly Perez Martinez, Alejandro Romero Murillo, Andrea Vega Villanueva, Vanesa Velazquez Rodriguez
