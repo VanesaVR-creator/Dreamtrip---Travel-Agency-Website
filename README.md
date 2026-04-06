@@ -41,4 +41,4 @@ Landing page:
 
 👩‍💻 Autor:
 
-Perla Garcia Perez, Kimberly Perez Martinez, Alejandro Romero Murillo, Andrea Vega Villanueva, Vanesa Velazquez Rodriguez
+Vanesa Velazquez Rodriguez
